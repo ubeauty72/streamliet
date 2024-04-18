@@ -1,5 +1,5 @@
 my_image_gen
-streamlit as st
+streamlit 
 openai
 os
 requests
