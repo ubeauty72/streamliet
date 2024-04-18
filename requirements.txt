@@ -1,4 +1,3 @@
-my_image_gen
 streamlit 
 openai
 os
